@@ -5,19 +5,19 @@ const Results = () => {
   const metrics = [
     {
       icon: TrendingUp,
-      value: "340%",
+      value: "6x",
       label: "Average Sales Growth",
-      description: "Our clients see 3x growth within 6 months"
+      description: "Our clients see 6x growth within 6 months"
     },
     {
       icon: DollarSign,
-      value: "₹50Cr+",
+      value: "₹24L+",
       label: "Revenue Generated",
       description: "Total revenue generated for our clients"
     },
     {
       icon: Users,
-      value: "500+",
+      value: "60+",
       label: "Happy Sellers",
       description: "Trusted by sellers across all categories"
     },

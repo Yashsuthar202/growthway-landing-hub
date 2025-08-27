@@ -30,15 +30,15 @@ const Hero = () => {
             
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-white/20">
               <div className="text-center">
-                <div className="text-2xl font-bold mb-1">100+</div>
+                <div className="text-2xl font-bold mb-1">60+</div>
                 <div className="text-sm text-white/80">Happy Sellers</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold mb-1">5x</div>
+                <div className="text-2xl font-bold mb-1">6x</div>
                 <div className="text-sm text-white/80">Avg Growth</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold mb-1">₹17Lakh+</div>
+                <div className="text-2xl font-bold mb-1">₹24Lakh+</div>
                 <div className="text-sm text-white/80">Revenue Generated</div>
               </div>
             </div>
@@ -57,7 +57,7 @@ const Hero = () => {
               <div className="flex items-center gap-2">
                 <TrendingUp className="h-5 w-5 text-growth-primary" />
                 <div>
-                  <div className="font-bold text-lg">+340%</div>
+                  <div className="font-bold text-lg">6x</div>
                   <div className="text-xs text-muted-foreground">Sales Growth</div>
                 </div>
               </div>
