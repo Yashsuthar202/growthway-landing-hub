@@ -30,7 +30,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <label className="text-sm font-medium text-foreground mb-2 block">Phone Number</label>
-                  <Input placeholder="+91 98765 43210" className="border-border/50 focus:border-growth-primary" />
+                  <Input placeholder="+91 82697 33434" className="border-border/50 focus:border-growth-primary" />
+                  <Input placeholder="+91 78913 04255" className="border-border/50 focus:border-growth-primary" />
                 </div>
               </div>
               <div>
@@ -77,7 +78,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-foreground mb-1">Call Us</h4>
-                  <p className="text-muted-foreground">+91 98765 43210</p>
+                  <p className="text-muted-foreground">+91 82697 33434</p>
+                  <p className="text-muted-foreground">+91 78913 04255</p>
                   <p className="text-sm text-muted-foreground">Mon-Fri, 9 AM - 7 PM IST</p>
                 </div>
               </div>

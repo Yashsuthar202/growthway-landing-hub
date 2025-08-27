@@ -19,7 +19,7 @@ const Header = () => {
           </nav>
           
           <div className="flex items-center space-x-4">
-            <Button variant="ghost" className="hidden md:flex">Login</Button>
+            {/* <Button variant="ghost" className="hidden md:flex">Login</Button> */}
             <Button variant="growth">Get Started</Button>
             <Button variant="ghost" size="icon" className="md:hidden">
               <Menu className="h-5 w-5" />

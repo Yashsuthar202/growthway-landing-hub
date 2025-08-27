@@ -23,9 +23,9 @@ const Hero = () => {
                 Start Growing Now
                 <ArrowRight className="group-hover:translate-x-1 transition-transform" />
               </Button>
-              <Button variant="outline" size="xl" className="text-white border-white/30 hover:bg-white/10">
+              {/* <Button variant="outline" size="xl" className="text-white border-white/30 hover:bg-white/10">
                 Watch Demo
-              </Button>
+              </Button> */}
             </div>
             
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-white/20">
