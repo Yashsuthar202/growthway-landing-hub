@@ -77,67 +77,6 @@ const Results = () => {
           ))}
         </div>
 
-        {/* Real Analytics Screenshots */}
-        <div className="mb-20">
-          <h3 className="text-3xl font-bold text-center mb-4">Real Client Results</h3>
-          <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-            These are actual Flipkart analytics screenshots from our clients showing their sales growth over time.
-          </p>
-          <div className="grid lg:grid-cols-2 gap-8 mb-16">
-            <Card className="p-6 bg-gradient-card border-0 shadow-soft hover:shadow-medium transition-smooth">
-              <div className="mb-4">
-                <div className="bg-muted/30 rounded-lg p-8 mb-4 text-center">
-                  <div className="text-4xl mb-2">📊</div>
-                  <div className="text-lg font-semibold text-growth-primary">July 2025 Results</div>
-                  <div className="text-sm text-muted-foreground">₹2.4L → ₹1.86L Net Sales</div>
-                </div>
-                <div className="text-sm text-muted-foreground">
-                  <strong>Client Growth:</strong> Electronics category seller showing consistent performance with optimized listing strategies.
-                </div>
-              </div>
-            </Card>
-            
-            <Card className="p-6 bg-gradient-card border-0 shadow-soft hover:shadow-medium transition-smooth">
-              <div className="mb-4">
-                <div className="bg-muted/30 rounded-lg p-8 mb-4 text-center">
-                  <div className="text-4xl mb-2">📈</div>
-                  <div className="text-lg font-semibold text-growth-primary">June 2025 Results</div>
-                  <div className="text-sm text-muted-foreground">₹3.12L Gross Sales</div>
-                </div>
-                <div className="text-sm text-muted-foreground">
-                  <strong>Client Growth:</strong> Fashion brand achieving 340% growth through our advanced analytics and optimization techniques.
-                </div>
-              </div>
-            </Card>
-            
-            <Card className="p-6 bg-gradient-card border-0 shadow-soft hover:shadow-medium transition-smooth">
-              <div className="mb-4">
-                <div className="bg-muted/30 rounded-lg p-8 mb-4 text-center">
-                  <div className="text-4xl mb-2">🚀</div>
-                  <div className="text-lg font-semibold text-growth-primary">May 2025 Results</div>
-                  <div className="text-sm text-muted-foreground">₹2.36L → Steady Growth</div>
-                </div>
-                <div className="text-sm text-muted-foreground">
-                  <strong>Client Growth:</strong> Home & Kitchen seller with consistent upward trajectory using our proven strategies.
-                </div>
-              </div>
-            </Card>
-            
-            <Card className="p-6 bg-gradient-card border-0 shadow-soft hover:shadow-medium transition-smooth">
-              <div className="mb-4">
-                <div className="bg-muted/30 rounded-lg p-8 mb-4 text-center">
-                  <div className="text-4xl mb-2">💰</div>
-                  <div className="text-lg font-semibold text-growth-primary">April 2025 Results</div>
-                  <div className="text-sm text-muted-foreground">₹2.45L Building Momentum</div>
-                </div>
-                <div className="text-sm text-muted-foreground">
-                  <strong>Client Growth:</strong> New client onboarded in April showing immediate improvement in sales metrics and trends.
-                </div>
-              </div>
-            </Card>
-          </div>
-        </div>
-
         {/* Testimonials */}
         <div className="mb-16">
           <h3 className="text-3xl font-bold text-center mb-12">What Our Clients Say</h3>
