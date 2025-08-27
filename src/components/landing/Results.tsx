@@ -23,7 +23,7 @@ const Results = () => {
     },
     {
       icon: Star,
-      value: "4.9",
+      value: "4.6",
       label: "Client Satisfaction",
       description: "Consistently rated 5-star service"
     }
