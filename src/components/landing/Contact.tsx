@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/enhanced-button"
 import { Card } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { Phone, Mail, MapPin, Clock } from "lucide-react"
+import { Phone, Mail, Clock } from "lucide-react"
 
 const Contact = () => {
   return (
@@ -93,16 +93,6 @@ const Contact = () => {
                 </div>
               </div>
 
-              <div className="flex items-start gap-4">
-                <div className="w-12 h-12 bg-warning/10 rounded-lg flex items-center justify-center flex-shrink-0">
-                  <MapPin className="h-6 w-6 text-warning" />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-foreground mb-1">Visit Us</h4>
-                  <p className="text-muted-foreground">Bangalore, Karnataka</p>
-                  <p className="text-sm text-muted-foreground">By appointment only</p>
-                </div>
-              </div>
 
               <div className="flex items-start gap-4">
                 <div className="w-12 h-12 bg-secondary/50 rounded-lg flex items-center justify-center flex-shrink-0">
